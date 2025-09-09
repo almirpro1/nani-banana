@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Image Studio",
+  "description": "Um aplicativo para gerar e editar imagens usando o modelo Gemini 2.5 Flash Image (Nano Banana). Suporta transformações de texto para imagem e imagem para imagem.",
+  "requestFramePermissions": []
+}
